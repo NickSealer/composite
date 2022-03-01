@@ -1,0 +1,8 @@
+directory:
+  - boss:
+  - dev_directory:
+    - dev_1
+    - dev_2
+  - man_directory:
+    - man_1
+    - man_2
